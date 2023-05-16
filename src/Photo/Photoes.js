@@ -22,9 +22,7 @@ export default function Picture() {
            ).catch(er => console.log(er))
           })
 
-        // let x = fetch("https://jsonplaceholder.typicode.com/photos");
-        // x.then(Response => Response.json()).then(data => setPicture(data)
-        // ).catch(er => console.log(er))
+        
     }
 
     
