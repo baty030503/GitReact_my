@@ -40,7 +40,7 @@ export default function Picture() {
             (
              
     <Stack sx={{ color: 'grey.500' }} spacing={2} direction="row">
-    <CircularProgress color="secondary" /><div>loading</div>
+    <CircularProgress color="secondary" /><div>loading...</div>
   </Stack>
             ):(
             <ul>
